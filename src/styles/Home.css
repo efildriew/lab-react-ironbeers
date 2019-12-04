@@ -1,3 +1,19 @@
 .img {
   width: 100%;
 }
+
+.home {
+  width: 100%;
+}
+
+a {
+  text-decoration: none;
+}
+
+a h2 {
+  color: black;
+}
+
+a p {
+  color: grey;
+}
