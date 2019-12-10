@@ -8,7 +8,7 @@ const Beers = () => {
       <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus
         pharetra egestas lectus, sit amet eleifend ex tincidunt in. Nam dictum
-        arcu ut dignissim varius.
+        arcu ut dignissim varius. Test for github.
       </p>
     </div>
   );
